@@ -4,6 +4,9 @@ Launch App in selected language, or set as **Default** language.
 
 [Download](https://github.com/mpco/AlfredWorkflow-App-Language-Switcher/releases)
 
+![Screenshot](https://user-images.githubusercontent.com/3690653/51394713-0118bc80-1b76-11e9-8668-81f6ee8c8841.gif)
+
+
 ## Usage
 
 1. Search app in Alfred.
